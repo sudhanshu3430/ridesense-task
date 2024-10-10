@@ -26,6 +26,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Prerequisites
+
+- [Node.js](https://nodejs.org/en/) (v14 or later)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [SQLite Extension] (for viewing the database)
+
 ## Project setup
 
 ```bash
@@ -41,22 +47,16 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-# production mode
-$ npm run start:prod
+
 ```
 
-## Run tests
+## Screenshots
+![3rd](https://github.com/user-attachments/assets/ee89de9a-f326-49da-9f88-d47a799d3566)
+![2nd](https://github.com/user-attachments/assets/674ecffd-2162-4e7a-9987-3c83039d44d3)
+![Screenshot 2024-10-11 002318](https://github.com/user-attachments/assets/279ff84a-38e6-4a23-85c1-795cafe0bbd8)
+![Screenshot 2024-10-11 001508](https://github.com/user-attachments/assets/d711a275-73a1-41e5-bea4-214c02dbcd08)
+![5](https://github.com/user-attachments/assets/f0b7ead5-9c0f-4924-9e18-fd77cf373e66)
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
 
 ## Resources
 
